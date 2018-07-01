@@ -107,7 +107,6 @@ Maintainers
 The following people are responsible for maintaining LibYAML:
 
 * Ingy döt Net
-* Ian Cordasco
 * Tina Mueller
 
 and many thanks to all who have contribributed!
